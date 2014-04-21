@@ -1,0 +1,16 @@
+[
+    {
+        "keys": [
+            "shift+ctrl+u"
+        ],
+        "args": {
+            "action": "remove_tag"
+        },
+        "command": "run_emmet_action",
+        "context": [
+            {
+                "key": "emmet_action_enabled.remove_tag"
+            }
+        ]
+    }
+]

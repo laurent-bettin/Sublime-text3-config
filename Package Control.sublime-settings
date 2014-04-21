@@ -3,10 +3,12 @@
 	[
 		"AutoFileName",
 		"BracketHighlighter",
-		"CSS Completions",
 		"Emmet",
+		"FileDiffs",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
-		"Theme - Soda"
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Nil"
 	]
 }
