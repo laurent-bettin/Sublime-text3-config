@@ -3,4 +3,4 @@ sublime-config
 
 ## Installation ##
 
-Just run git clone in Data/Packages/User directory.
+Just run git clone in Packages/User directory.
